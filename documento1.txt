@@ -1,2 +1,3 @@
 Contenido del documento 1
 Añadiendo líneas al primer documento
+Realizando cambios en documento1.txt en la rama mirama
