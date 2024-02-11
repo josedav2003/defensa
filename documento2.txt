@@ -1,1 +1,3 @@
 Contenido del documento 2
+Realizando cambios en documento2.txt en la rama main
+Realizando nuevos cambios en documento2.txt
